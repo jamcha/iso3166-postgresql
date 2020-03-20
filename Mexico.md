@@ -1,8 +1,8 @@
 # México
 
-Para México, SEPOMEX (Servicio Postal Mexicano) ofrece datos de todos los códigos postales actualizados en un solo archivo
-que incluye Estados y Municipios (ciudades). De ahí se obtienen los catálogos de Municipios y de Colonias con su código 
-postal.
+Para México, [SEPOMEX](https://www.correosdemexico.gob.mx) (Servicio Postal Mexicano) ofrece datos de todos los códigos
+postales actualizados en un solo archivo que incluye Estados y Municipios (ciudades). De ahí se obtienen los catálogos
+de Municipios y de Colonias con su código postal.
 
 # Procedimiento
 

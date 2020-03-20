@@ -9,7 +9,7 @@ La idea principal es obtener esta información en español, aunque se puede camb
 principal. Como comentan ellos *"This is the best source for iso3166 codes you can found"* y a su vez obtienen la información
 de otros medios. ¡Gracias!
 
-Podrás encontrar ["un dump"]() de la base de datos sin comprimir con los paises y estados en español. Adicionalmente otra con
+Podrás encontrar ["un dump"](https://github.com/jamcha/iso3166-postgresql/tree/master/dump) de la base de datos sin comprimir con los paises y estados en español. Adicionalmente otra con
 datos sobre colonias y municipios de México.
 
 Se ha documentado el [procedimiento completo](Procedimiento.md) usado para crear todas las tablas. Como extra, también se documentó el 
